@@ -1,3 +1,19 @@
+###### Lab Partner 1
+
+Name: Vitali Shypko
+
+SID: 3032620099
+
+Email: vshypko@berkeley.edu
+
+###### Lab Partner 2
+
+Name: Yahor Yuzefovich
+
+SID: 3032556983
+
+Email: yuzefovich@berkeley.edu
+
 # Inline Assembly
 
 Inline assembly is contained within normal solidity code and allows low-level access to the EVM.
